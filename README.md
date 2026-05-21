@@ -1,54 +1,103 @@
 <div align="center">
 
-# 🌾 Orlando's Code Farm 🌾
+# 👻 Orlando's Haunted Code Lab 💜
 
-*"Cultivando código uma linha por vez"*
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="200"/>
 
-<img src="https://i.imgur.com/sua-imagem-gengar.png" width="200"/>
-
----
-
-### 👨‍💻 Sobre mim
-🎓 Ciência da Computação UFF
-🌱 Aprendendo: C, JavaScript, Desenvolvimento Web
-🎮 Projetos: Jogos em C, RPG com dados, Sistema de cadastro
-🔭 Atualmente trabalhando em: Jogo topdown em C
+*"Coding in the shadows, debugging in the night"* 🌙
 
 ---
 
-### 🛠️ Ferramentas da Fazenda
+### 🎮 Player Stats
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+┌─────────────────────────────────────┐
+│ 👤 Orlando RNRB                     │
+│ 🎓 Ciência da Computação - UFF      │
+│ 💼 Dev Iniciante                    │
+│ 🌙 Night Coder                      │
+│ 👻 Ghost Type Developer             │
+└─────────────────────────────────────┘
+
+---
+
+### ⚡ Type Effectiveness
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📊 Estatísticas da Colheita
+### 📊 Battle Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrlandoRNRB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoRNRB&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrlandoRNRB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7F3FBF&title_color=7F3FBF&icon_color=7F3FBF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoRNRB&layout=compact&langs_count=7&theme=midnight-purple&border_color=7F3FBF&title_color=7F3FBF"/>
 
----
-
-### 🎮 Projetos Principais
-
-[![Jogo em C](https://github-readme-stats.vercel.app/api/pin/?username=OrlandoRNRB&repo=Jogo-em-c&theme=dracula)](https://github.com/OrlandoRNRB/Jogo-em-c)
-[![Forca](https://github-readme-stats.vercel.app/api/pin/?username=OrlandoRNRB&repo=Forca-C-language-game&theme=dracula)](https://github.com/OrlandoRNRB/Forca-C-language-game)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OrlandoRNRB&theme=midnight-purple&border=7F3FBF&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF)](https://git.io/streak-stats)
 
 ---
 
-### 📫 Conecte-se comigo
+### 🎯 Current Quests
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](seu-instagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
+```javascript
+const orlando = {
+    location: "Rio de Janeiro 🇧🇷",
+    currentQuest: "Jogo da Forca em C",
+    skills: ["C", "JavaScript", "CSS", "Problem Solving"],
+    interests: ["Game Dev", "Pixel Art", "Stardew Valley", "Pokémon"],
+    studying: "Estruturas de Dados e Algoritmos",
+    funFact: "Prefiro programar à noite 🌙"
+};
+```
 
 ---
 
-![Snake animation](https://github.com/OrlandoRNRB/OrlandoRNRB/blob/output/github-contribution-grid-snake.svg)
+### 🏆 Trophy Case
 
-*"Cada commit é uma semente plantada 🌱"*
+[![trophy](https://github-profile-trophy.vercel.app/?username=OrlandoRNRB&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 👻 Featured Projects
+
+<a href="https://github.com/OrlandoRNRB/Jogo-em-c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrlandoRNRB&repo=Jogo-em-c&theme=midnight-purple&border_color=7F3FBF" />
+</a>
+<a href="https://github.com/OrlandoRNRB/Forca-C-language-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrlandoRNRB&repo=Forca-C-language-game&theme=midnight-purple&border_color=7F3FBF" />
+</a>
+
+---
+
+### 💜 Skills & Moves
+
+
+🎮 Game Development    ████████░░ 80%
+💻 C Programming       ███████░░░ 70%
+🌐 Web Development     ██████░░░░ 60%
+🎨 Pixel Art           █████████░ 90%
+🐛 Debugging           ████████░░ 80%
+☕ Coffee Consumption  ██████████ 100%
+
+---
+
+### 📫 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/OrlandoRNRB/OrlandoRNRB/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+*"Gotta code 'em all!" 💜*
 
 </div>
 
