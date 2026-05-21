@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Orlando%20RNRB&fontSize=50&fontColor=fff&animation=fadeIn&desc=Ghost%20Type%20Developer&descAlignY=60"/>
 <div align="center">
 
 # 👻 Orlando's Haunted Code Lab 💜
