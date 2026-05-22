@@ -44,6 +44,10 @@
  [![Orlando github stats](https://github-readme-mwendwa.vercel.app/api?username=OrlandoRNBR&show_icons=true&count_private=true&line_height=20&icon_color=7b00ff&theme=dark&title_color=7b00ff)](#)
 
 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=OrlandoRNBR&layout=compact&count_private=true&theme=dark&title_color=7b00ff)](#)
+
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=OrlandoRNBR&count_private=true&theme=dark&title_color=7b00ff)](#)
+
 </div>
 
 ---
@@ -127,13 +131,15 @@ const orlando = {
 ---
 
 ### 🐍 Contribution Snake
-<div align="center">
+<!-- ./GitHub Snake -->
+<div style="text-align: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/ocean.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrlandoRNBR/OrlandoRNBR/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/OrlandoRNBR/OrlandoRNBR/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/OrlandoRNBR/OrlandoRNBR/blob/output/ocean.gif" />
   </picture>
 </div>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
