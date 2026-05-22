@@ -119,20 +119,6 @@ const orlando = {
 
 ---
 
-### 💜 Skills & Moves
-
-<div  align="left">
-🎮 Game Development&nbsp;&nbsp;&nbsp;&nbsp;████████░░ 80%<br>
-💻 C Programming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████░░░ 70%<br>
-🌐 Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████░░░░ 60%<br>
-🎨 Pixel Art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████░ 90%<br>
-🐛 Debugging&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████░░ 80%<br>
-☕ Coffee Consumption&nbsp;&nbsp;██████████ 100%<br>
-</div>
-
-
----
-
 ### 📫 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orlandornbr/)
@@ -145,7 +131,7 @@ const orlando = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/ocean.gif" />
   </picture>
 </div>
 ---
