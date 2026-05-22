@@ -40,11 +40,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrlandoRNRB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7F3FBF&title_color=7F3FBF&icon_color=7F3FBF&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoRNRB&layout=compact&langs_count=7&theme=midnight-purple&border_color=7F3FBF&title_color=7F3FBF&bg_color=0d1117"/>
+ [![Orlando github stats](https://github-readme-mwendwa.vercel.app/api?username=OrlandoRNBR&show_icons=true&count_private=true&line_height=20&icon_color=7b00ff&theme=dark&title_color=7b00ff)](#)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OrlandoRNRB&theme=midnight-purple&border=7F3FBF&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,32 +63,71 @@ const orlando = {
 
 ---
 
-### 🏆 Trophy Case
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OrlandoRNRB&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 👻 Featured Projects
 
-<a href="https://github.com/OrlandoRNRB/Jogo-em-c">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrlandoRNRB&repo=Jogo-em-c&theme=midnight-purple&border_color=7F3FBF" />
-</a>
-<a href="https://github.com/OrlandoRNRB/Forca-C-language-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrlandoRNRB&repo=Forca-C-language-game&theme=midnight-purple&border_color=7F3FBF" />
-</a>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 [Jogo-em-C](https://github.com/OrlandoRNRB/Jogo-em-c)
+
+*Quero criar um jogo em c estilo o rei da pradaria de Stardew Valley*
+
+![C](https://img.shields.io/badge/C-5C2D91?style=for-the-badge&logo=c&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+
+</td>
+<td width="50%">
+
+#### 🔤 [Forca-C-language-game](https://github.com/OrlandoRNRB/Forca-C-language-game)
+
+*Um simples jogo de forca que fiz durante as férias do meu primeiro semestre*
+
+![C](https://img.shields.io/badge/C-5C2D91?style=for-the-badge&logo=c&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completo-success?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎲 [Site-dados-de-RPG](https://github.com/OrlandoRNRB/Site-dados-de-RPG)
+
+*Um projeto onde vou estudar desenvolvimento web desenvolvendo algo que gosto*
+
+![CSS](https://img.shields.io/badge/CSS-9F5FDF?style=for-the-badge&logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+
+</td>
+<td width="50%">
+
+#### 📱 [Imersao-dev-alura](https://github.com/OrlandoRNRB/Imersao-dev-alura)
+
+*São os projetos que fiz durante a 9ª imersão dev da alura*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?style=for-the-badge&logo=javascript&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completo-success?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ### 💜 Skills & Moves
 
 <div  align="left">
-🎮 Game Development    ████████░░ 80%<br>
-💻 C Programming       ███████░░░ 70%<br>
-🌐 Web Development     ██████░░░░ 60%<br>
-🎨 Pixel Art           █████████░ 90%<br>
-🐛 Debugging           ████████░░ 80%<br>
-☕ Coffee Consumption  ██████████ 100%<br>
+🎮 Game Development&nbsp;&nbsp;&nbsp;&nbsp;████████░░ 80%<br>
+💻 C Programming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████░░░ 70%<br>
+🌐 Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████░░░░ 60%<br>
+🎨 Pixel Art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████░ 90%<br>
+🐛 Debugging&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████░░ 80%<br>
+☕ Coffee Consumption&nbsp;&nbsp;██████████ 100%<br>
 </div>
 
 
@@ -104,9 +141,13 @@ const orlando = {
 ---
 
 ### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/OrlandoRNRB/.github/workflows/main.yml)
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/OrlandoRNBR/OrlandoRNBR/output/github-snake.svg" />
+  </picture>
+</div>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
