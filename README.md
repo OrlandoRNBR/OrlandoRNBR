@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Orlando%20RNRB&fontSize=50&fontColor=fff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Orlando%20RNBR&fontSize=50&fontColor=fff&animation=fadeIn"/>
 
 <div align="center">
 
